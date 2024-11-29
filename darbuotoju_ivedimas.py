@@ -17,3 +17,5 @@ pasirinkite "q" - ivestis baigta
     elif ivestis == "2":
         for darbuotojas in darbuotoju_sarasas:
             print(darbuotojas)
+    else:
+        print("netinkama ivestis")
